@@ -39,6 +39,9 @@ This project aims at determining the level of Coolant that flows into a Nuclear 
 
 Consider Fuel = 73% and Moderator = 38%
 
+![Results_Rule Inference](https://github.com/vaibhavparekh9/Fuzzy-Logic-Controller/assets/153970846/0d9eddb4-2203-46d2-9805-04572a3f714c)
+_Fig. Implementation on MATLAB_ 
+
 #### Fuel:
 
 μ_fuel_med = (100-x)/55 = (100-73)/55 = 27/55
