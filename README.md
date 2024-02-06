@@ -79,6 +79,6 @@ The Maximum Strength corresponds to Medium Fuel and Medium Moderator levels. Acc
 
 ∴ z = 90.18%
 
-Mean of Max = average(74.91,90.18) ≈ 81.7%
+Mean of Max = average(74.91,90.18) ≈ 82%
 
 Hence, the result is verified.
